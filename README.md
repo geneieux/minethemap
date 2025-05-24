@@ -75,4 +75,4 @@ We're building the world's most trusted, real-time property intelligence network
 
 **Check out our detailed project plan and documentation:** [Link to your project docs - To be added by human developer]
 
-**Join our community:** [Link to Discord/Slack/Forum - To be added by human developer]
+**Join our discord community:** [https://discord.com/channels/1375840458915188748/1375840460035199118]
