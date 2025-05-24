@@ -71,8 +71,8 @@ Node operators will earn `SimPoints` (convertible to fiat) based on their contri
 
 We're building the world's most trusted, real-time property intelligence network. Join us!
 
-**Explore our codebase on GitHub:** [Link to your GitHub repository here - To be added by human developer]
+**Explore our codebase on GitHub:** [https://github.com/geneieux/minethemap]
 
-**Check out our detailed project plan and documentation:** [Link to your project docs - To be added by human developer]
+**Check out our detailed project plan and documentation:** [Coming Soon]
 
 **Join our discord community:** [https://discord.com/channels/1375840458915188748/1375840460035199118]
